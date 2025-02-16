@@ -1,3 +1,1 @@
-# WXT + React
-
-This template should help get you started developing with React in WXT.
+Read me file place holder
